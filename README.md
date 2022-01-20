@@ -1,0 +1,4 @@
+- For general information, see the [About Me](https://tchapman500.com/about-me) page on my website.
+- My general interests are in game development, sim racing, flight simulation, digital logic circuits, and pretty much anything that has to do with engineering.
+- My current programming-related projects (all in game-development) are [Solar Lander](https://store.steampowered.com/app/724170/Solar_Lander/), and my own racing simulator.
+- I'm also working on a 16-bit processor using [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution).
